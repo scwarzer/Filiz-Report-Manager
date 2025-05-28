@@ -1,0 +1,11 @@
+pyqt5
+pyqtwebengine
+cryptography
+pandas
+matplotlib
+folium
+geopy
+selenium
+beautifulsoup4
+requests
+openpyxl
